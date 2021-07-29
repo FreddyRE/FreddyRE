@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreddyRE Freddy Romero Espinsoa
+- 👋 Hi, I’m @FreddyRE Freddy Romero Espinosa
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning React, Angular and Python
 - 💞️ I’m looking to collaborate on startups
